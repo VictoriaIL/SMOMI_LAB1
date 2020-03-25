@@ -13,5 +13,7 @@
 2) Метрика accuracy
 3) Оптимизатор adam
 
+[Loss function](https://github.com/VictoriaIL/SMOMI_LAB1/blob/master/Loss.png)
+[Accuracy function](https://github.com/VictoriaIL/SMOMI_LAB1/blob/master/Accuracy.png)
 accurancy = 0.4800
 
